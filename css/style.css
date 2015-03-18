@@ -1,0 +1,37 @@
+.voffset  { margin-top: 2px; }
+.voffset1 { margin-top: 5px; }
+.voffset2 { margin-top: 10px; }
+.voffset3 { margin-top: 15px; }
+.voffset4 { margin-top: 30px; }
+.voffset5 { margin-top: 40px; }
+.voffset6 { margin-top: 60px; }
+.voffset7 { margin-top: 80px; }
+.voffset8 { margin-top: 100px; }
+.voffset9 { margin-top: 150px; }
+.smallhorizontal { margin-left: 50px; }
+
+body {
+  background-color: #313131;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 500;
+}
+
+h1, h2, h3, p {
+  color: #e1e1e8;
+}
+
+a {
+  color: #FDBD66;
+}
+a:hover {
+  color: #e1e1e8;
+}
+
+.orange-btn {
+  background-color: #FDBD66;
+  color: #313131;
+}
+
+.orange-btn:hover {
+  background-color: #e1e1e8;
+}
